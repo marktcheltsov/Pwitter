@@ -33,6 +33,7 @@ pnpm dev
 - TypeScript
 - Redux Toolkit
 - Axios
+- Tailwind
 
 ### Server Side
 - Express
